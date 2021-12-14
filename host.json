@@ -1,0 +1,12 @@
+{
+    "version": "2.0",
+    "AzureWebJobsDisableHomepage": "true",
+    "logging": {
+        "applicationInsights": {
+            "samplingExcludedTypes": "Request",
+            "samplingSettings": {
+                "isEnabled": true
+            }
+        }
+    }
+}
