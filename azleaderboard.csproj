@@ -10,8 +10,8 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk.Analyzers" Version="1.0.0" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.0.13" />
     <PackageReference Include="Microsoft.Azure.Functions.Extensions" Version="1.1.0" />
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="4.0.2" />
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.CosmosDB" Version="3.0.7" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="4.0.4" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.CosmosDB" Version="3.0.9" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.0.1" />
     <PackageReference Include="Microsoft.ApplicationInsights" Version="2.14.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />

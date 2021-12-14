@@ -1,0 +1,8 @@
+<policies>
+  <outbound>
+    <set-header name="X-Powered-By" exists-action="delete" />
+    <set-header name="X-AspNet-Version" exists-action="delete" />
+    <find-and-replace from="://komsoft-leaderboard-dev.azurewebsites.net" to="://komsoft-leaderboard-dev.azure-api.net"/>
+    <base />
+  </outbound>
+</policies>
